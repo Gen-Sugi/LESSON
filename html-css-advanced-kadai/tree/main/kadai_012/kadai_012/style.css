@@ -496,3 +496,32 @@ footer {
   margin: 40px 0;
   width: 100%;
 }
+
+#cases > ul {
+  display: flex;
+  list-style: none;
+}
+
+#cases > li {
+  width: 33%;
+  margin: 20px;
+}
+
+.case-img {
+  width: 100%;
+}
+
+.case-info {
+  padding: 10px 20px;
+}
+
+.case-name {
+  color: #2710d5;
+  font-size: 19px;
+}
+
+.case-content {
+  font-size: 14px;
+}
+
+
