@@ -308,7 +308,7 @@ h3 {
   Ï
 }
 
-.vision-box>span>h4::first-letter {
+.vision-box > span > h4::first-letter {
   font-size: 40px;
 }
 
