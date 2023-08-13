@@ -490,3 +490,9 @@ footer {
   color: #ffffff;
   float: right;
 }
+
+/* 課題追加 */
+#cases {
+  margin: 40px 0;
+  width: 100%;
+}
