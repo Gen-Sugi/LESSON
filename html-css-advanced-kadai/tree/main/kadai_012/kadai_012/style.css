@@ -305,7 +305,6 @@ h3 {
   color: #2710d5;
   font-size: 19px;
   margin: 80px 0 0 0;
-  Ï
 }
 
 .vision-box > span > h4::first-letter {
@@ -493,18 +492,24 @@ footer {
 
 /* 課題追加 */
 #cases {
-  margin: 40px 0;
+  margin: 40px 0 40px 0;
   width: 100%;
 }
 
-#cases > ul {
+ul {
   display: flex;
   list-style: none;
 }
 
-#cases > li {
+li {
   width: 33%;
   margin: 20px;
+}
+
+.case-card{
+  background-color: #ffffff;
+  min-height: 400px;
+  box-shadow: 2px 2px 4px -2px gray;
 }
 
 .case-img {
