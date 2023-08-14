@@ -1,5 +1,7 @@
 let num = Math.floor(Math.random() * 10) + 1;
 console.log("元の値は" + num + "です。");
+
+// ↓↓↓↓↓↓　アロー ver　↓↓↓↓↓↓
 const functionTest = (num) => {
   return num ** 2;
 }
