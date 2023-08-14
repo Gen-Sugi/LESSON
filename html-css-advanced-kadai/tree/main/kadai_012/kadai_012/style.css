@@ -509,7 +509,7 @@ footer {
 .case-card{
   background-color: #ffffff;
   min-height: 400px;
-  box-shadow: 2px 2px 4px -2px gray;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .case-img {
