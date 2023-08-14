@@ -496,12 +496,12 @@ footer {
   width: 100%;
 }
 
-ul {
+#cases > ul {
   display: flex;
   list-style: none;
 }
 
-li {
+#cases > ul > li {
   width: 33%;
   margin: 20px;
 }
